@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @yakuzaxj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  # Merhaba! Ben [Arda](https://github.com/yakuzaxj) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
 
-<!---
-yakuzaxj/yakuzaxj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p al
+
+# Bağlantılar
+
+[![Mail](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yakuzazip)
+[![Mail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakuzaarda3@gmal.com)
+<img src="https://komarev.com/ghpvc/?username=EmirhanSarac&style=for-the-badge&label=Ziyaretçi"/>
